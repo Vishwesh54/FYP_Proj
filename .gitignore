@@ -3,10 +3,10 @@ lib/
 lib64/
 Microsoft_dataset/malware-classification/dataSample.7z
 Microsoft_dataset/Original/
-ProcessedData/malimg_entropy_csv/
-ProcessedData/malimg_images/
-ProcessedData/microsoft_entropy_csv/
-ProcessedData/microsoft_images/
+# ProcessedData/malimg_entropy_csv/
+# ProcessedData/malimg_images/
+# ProcessedData/microsoft_entropy_csv/
+# ProcessedData/microsoft_images/
 Proj/dataset/
 best_model.pt
 crossmodal_model_final.pt
